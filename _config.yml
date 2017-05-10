@@ -1,0 +1,31 @@
+title: jk ksajf jsa 
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+ Y
+ou 4567890#$%^&*()$%^&*(:;;;ca
+n
+    u
+asdasd     pdate description in update blog details page. dkjandnjaskjd askjndasnkd skjandkjansd askdnk
+jnasdkj askjdnaskjndka skdasnkjdasd kasdnkjas dkjsa jdjaskkjd asdj skjadk askjd kasjkjd askdjas kjd kjas kjd asjkd k
+jas dkj asd kjasd kjas dkj askd kasjdkjas dkj askjdkas kd askdkjas k kd askd akjs kd asdj akjsdkja dkas dkbasd asd kja dkj asd asd kjasdkjas dkadkasdkas kda skj ahka skd
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://cyobb.com/sdadww" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+
+markdown: kramdown
+
+name: jk ksajf jsa 
+
+date: 2017-05-10 22:47:47 +0530
+permalink: /:year/:month/:day/:title
+
+logo: false
+paginate: 10
+domain_name: http://cyobb.com/sdadww/
+google_analytics: UA-31XXXXXX-X
+gems: [jekyll-paginate]
+cover: 
+author_image: 
+# Details for the RSS feed generator
+author:        sdadww
